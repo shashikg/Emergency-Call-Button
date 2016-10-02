@@ -14,3 +14,5 @@ Buisness Plan for Emergency Call..
 Our future plan?
 At present the app used to send an sms to the help-line no. of the organisation, but we were also planning to implement an facebook group for the organisaton such that they get an updated details on facebook group, i.e. who called from where??
 
+How we will earn money from this?
+Well the best idea is to implent Google Adsense, and also we are planning to put the app for free with donation link if someone wants.
