@@ -1,7 +1,7 @@
 Buisness Plan for Emergency Call..
  
  What is Emergency Call Button??
- Well its an android app which can call for emergency to helping organisations, like blood connect, police, fire, etc ready to help the people in time of need.
+ Well its an android app which can call for emergency to helping organisations, like blood connect, police, fire, etc ready to help the people in time of need. Well our main focus is to implement the app to help the women in cases of harasment and rape cases.
  
  How it works?
  When the victim will open the app, app try to locate its position, if the victims position gets determined it will be displayed on the app screen.
