@@ -1,3 +1,5 @@
+Please refer to the ppt file for final model...
+
 Buisness Plan for Emergency Call..
  
  What is Emergency Call Button??
